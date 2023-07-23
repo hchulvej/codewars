@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "codewars_d07eb54c"
+        },
+        {
             "name": "Launch Java",
             "type": "java",
             "request": "launch",
